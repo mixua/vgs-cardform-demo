@@ -88,6 +88,6 @@ https://www.verygoodsecurity.com/docs/overview
 
 ```
 2018
-gjyoung1974@gmail.com
+gordon.young@verygoodsecurity.com
 ```
 
